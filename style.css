@@ -88,7 +88,6 @@ p {
     margin-top: 20px;
     transition: .5s ease;
     transition-property: background-color, color;
-
 }
 #presentation .cta:hover{
     color: white;
